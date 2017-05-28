@@ -1,0 +1,11 @@
+.col-1 {
+    float: left;
+    width: 8.33333333%;
+    /*width: calc((1/12)100)%;*/
+    background-color: red;
+}
+
+div {
+  height: 50px;
+  border: 1px solid red;
+}
